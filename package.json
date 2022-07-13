@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-api",
+  "version": "1.0.0",
+  "description": "Restful api using node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaviudayakumar/nodejs-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaviudayakumar/nodejs-api/issues"
+  },
+  "homepage": "https://github.com/kaviudayakumar/nodejs-api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "mysql": "^2.18.1"
+  }
+}
